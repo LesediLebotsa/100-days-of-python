@@ -1,0 +1,39 @@
+# 100 Days of Python Challenge
+
+This repository contains my progress through the **100 Days of Python Bootcamp by Angela Yu**.
+
+The goal of this challenge is to build strong Python fundamentals and progress toward advanced topics such as automation, cloud engineering, and DevSecOps.
+
+---
+
+## Progress
+
+| Day | Project | Status |
+|-----|--------|--------|
+| 001 | Band Name Generator | ✅ |
+
+
+---
+
+## Skills Being Developed
+
+- Python fundamentals
+- Automation
+- Problem solving
+- Software development discipline
+- Preparation for cloud and DevSecOps engineering
+
+---
+
+## Repository Structure
+100-days-of-python/
+│
+├── day-001-band-name-generator/
+│ └── main.py
+│
+
+---
+
+## Author
+
+GitHub: https://github.com/LesediLebotsa
