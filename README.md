@@ -8,9 +8,9 @@ The goal of this challenge is to build strong Python fundamentals and progress t
 
 ## Progress
 
-| Day | Project | Status |
-|-----|--------|--------|
-| 001 | Band Name Generator | ✅ |
+| Day | Project                 | Status |
+|-----|-------------------------|--------|
+| 001 | Start up Name Generator | ✅ |
 
 
 ---
@@ -28,7 +28,7 @@ The goal of this challenge is to build strong Python fundamentals and progress t
 ## Repository Structure
 100-days-of-python/
 │
-├── day-001-band-name-generator/
+├── day-001-startup-name-generator/
 │ └── main.py
 │
 
