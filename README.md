@@ -31,9 +31,11 @@ The goal of this challenge is to build strong Python fundamentals and progress t
 │
 ├── day-001-startup-name-generator/
 │ └── main.py
+│
 ├── day-002-tip-calculator/
 │ └── main.py
-│
+
+
 
 ---
 
