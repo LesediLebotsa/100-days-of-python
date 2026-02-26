@@ -12,7 +12,8 @@ The goal of this challenge is to build strong Python fundamentals and progress t
 |-----|-------------------------|----|
 | 001 | Start up Name Generator | ✅ |
 | 002 | Tip Calculator          | ✅  |
-| 003 | Treasure island game       |  ✅  |
+| 003 | Treasure island game    |  ✅  |
+| 004 | Password generator      |   ✅  |
 
 
 ---
