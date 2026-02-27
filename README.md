@@ -14,6 +14,7 @@ The goal of this challenge is to build strong Python fundamentals and progress t
 | 002 | Tip Calculator          | ✅  |
 | 003 | Treasure island game    |  ✅  |
 | 004 | Password generator      |   ✅  |
+| 005 | Hangman game            |    ✅  |
 
 
 ---
